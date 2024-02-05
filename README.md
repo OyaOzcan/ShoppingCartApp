@@ -7,7 +7,8 @@ Bu projede kullanılan test türleri şunlardır:
 
 ### 1. Unit Test:
 Unit testleri, uygulama içindeki fonksiyonları ve metodları test etmek için kullanılır. Bu testler genellikle birim (unit) olarak adlandırılan en küçük test edilebilir parçaları kontrol eder.
-####Uygulamada örnek kullanımı
+
+#### Uygulamada örnek kullanımı
 Sepete ürün eklemeyi/çıkarmayı ve toplam tutar içeren fonksiyonların doğruluğunu kontrol edilir.
  ```bash
      flutter test test/unit_test.dart
@@ -15,7 +16,8 @@ Sepete ürün eklemeyi/çıkarmayı ve toplam tutar içeren fonksiyonların doğ
 
 ### 2. Widget Test:
 Widget testleri, uygulama içindeki kullanıcı arayüzünü test etmek için kullanılır. Widget testleri genellikle bir widget'ın doğru görüntülenip görüntülenmediğini ve kullanıcı etkileşimlerine nasıl yanıt verdiğini kontrol eder.
-####Uygulamada örnek kullanımı
+
+#### Uygulamada örnek kullanımı
 Ana sayfa üzerindeki scroll işlemi ve sepete ürün ekleme/çıkarma işlemlerinde Snackbar'ın görüntülenip görüntülenmediğini test edilir.
 ```bash
      flutter test test/widget_test.dart
@@ -23,7 +25,7 @@ Ana sayfa üzerindeki scroll işlemi ve sepete ürün ekleme/çıkarma işlemler
 
 ### 3. Integration Test:
 Integration testleri, uygulama içindeki farklı modüllerin bir araya gelerek doğru bir şekilde çalışıp çalışmadığını kontrol etmek için kullanılır. Bu testler genellikle bütün uygulama bütünlüğünü kontrol eder.
-####Uygulamada örnek kullanımı
+#### Uygulamada örnek kullanımı
 Driver paketini kullanarak sayfa üzerindeki scroll işlemi ve sepete ürün ekleme/çıkarma işlemlerinde bütünlük testleri gerçekleştirilir.
 ```bash
      flutter drive --target=test_driver/app.dart
