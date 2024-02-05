@@ -1,16 +1,5 @@
-# caseapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ShoppinCart
+![Screenshot_1707144277](https://github.com/OyaOzcan/ShoppingCartApp/assets/141520129/894e0de0-874f-42ba-ba67-90153fff0dea)
+![Screenshot_1707144289](https://github.com/OyaOzcan/ShoppingCartApp/assets/141520129/ccb6dfc0-dc40-44e7-8f2f-2d0c5938490b)
+![Screenshot_1707144287](https://github.com/OyaOzcan/ShoppingCartApp/assets/141520129/e2b86253-a17f-4567-b3b8-16696bbde92f)
+![Screenshot_1707144281](https://github.com/OyaOzcan/ShoppingCartApp/assets/141520129/f31a2b74-846f-4943-9bca-b42611375505)
